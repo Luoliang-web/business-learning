@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile /usr/home/yourusername/.htpasswd
+AuthUserFile /Luoliang-web/Lawn_mower/.htpasswd
 require valid-user
