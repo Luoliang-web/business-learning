@@ -1,4 +1,4 @@
 AuthType Basic 
 AuthName "My Protected Folder" 
-AuthUserFile /Luoliang-web/business-learning.github.io/.htpasswd 
+AuthUserFile github.com/Luoliang-web/business-learning.github.io/.htpasswd 
 require valid-user
