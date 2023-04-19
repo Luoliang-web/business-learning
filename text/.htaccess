@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile /luoliang-web/business-learning.github.io/.htpasswd
+AuthUserFile /lluoliang-web/business-learning.github.io/.htpasswd
 require valid-user
